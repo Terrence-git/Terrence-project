@@ -57,6 +57,7 @@
  .main{
     grid-area: m;
      margin: 10px;
+     text-align: center;
  }
 
 .footer{

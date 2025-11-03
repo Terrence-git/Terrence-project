@@ -17,7 +17,7 @@
 -JAVASCRIPT
 
 ## The features in this website include
--It's only one
+-It's only one 
 -The exit button in the homepage changes background theme color when clicked
 
 ## Changes
