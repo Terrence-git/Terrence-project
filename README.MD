@@ -1,4 +1,6 @@
 #ONLINE TRADING WEBSITE
+DEPLOYMENT LINK https://terrence-git.github.io/Terrence-project/
+
 
 ## About this website
 -This website contains Jumia, Kilimall,Amazon and shopify trading platforms all in one place.
